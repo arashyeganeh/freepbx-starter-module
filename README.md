@@ -1,2 +1,2 @@
-# Asterisk Starter Module
-A starter plugin for Asterisk pbx
+# FreePBX (Asterisk) Starter Module
+A starter plugin for FreePBX (Asterisk)
