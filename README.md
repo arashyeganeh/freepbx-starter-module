@@ -1,2 +1,2 @@
-# starter-plugin-issabel
-A starter plugin for issabel pbx
+# Asterisk Starter Module
+A starter plugin for Asterisk pbx
