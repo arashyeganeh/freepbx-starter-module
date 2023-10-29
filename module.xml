@@ -1,21 +1,21 @@
 <module>
-	<rawname>starterpluginasterisk</rawname>
+	<rawname>freepbxstartermodule</rawname>
 	<repo>standard</repo>
-	<name>Starter Plugin Asterisk</name>
+	<name>Freepbx Starter Module</name>
 	<version>1.0.0</version>
 	<publisher>Arash Yeganeh</publisher>
 	<license>GPLv3+</license>
 	<licenselink>http://www.gnu.org/licenses/gpl-3.0.txt</licenselink>
 	<category>Admin</category>
 	<description>
-		The "Asterisk Starter Module" is a pre-configured blueprint for creating a module within the Asterisk environment
+		The "Freepbx Starter Module" is a pre-configured blueprint for creating a module within the Freepbx environment
 	</description>
-	<more-info>https://github.com/arashyeganeh/asterisk-starter-module</more-info>
+	<more-info>https://github.com/arashyeganeh/freepbx-starter-module</more-info>
 	<menuitems>
-		<starterpluginasterisk needsenginedb="yes">Starter Plugin Asterisk</starterpluginasterisk>
+		<starterpluginasterisk needsenginedb="yes">Freepbx Starter Module</starterpluginasterisk>
 	</menuitems>
 	<changelog>
-		*1.0.0* Starter Plugin Asterisk 
+		*1.0.0* Freepbx Starter Module
 	</changelog>
 	<supported>
 		<version>16.0</version>
